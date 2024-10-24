@@ -1,0 +1,169 @@
+
+        header{ background-color: black; height: 150px; width:auto;color: goldenrod;
+            display: flex;
+            align-items: center;
+        font-size: 60px;}
+        #s2{background-color: gold; margin-bottom: 20px;
+        
+        height: 30px;text-decoration: none;padding-left: 55px; padding-top: 10px;}
+        #s2 a{text-decoration: none;color: aliceblue;}
+        #s3{background-color: black; border-radius: 20px;height: 250px;padding: 20px;
+        font-size: large; color: goldenrod;}
+        #s4{font-size: xx-large;}
+        #w1{
+            font-size: x-large;
+           
+            padding: 10px;
+            border: solid gold;
+            border-radius: 5px;
+            width: 120px;
+        }
+        footer{color: whitesmoke; background-color: yellow;margin-top: 10px;width: 1200px; height: 300px;font-size: x-large; align-content: center; text-align: center; }
+
+        #g1{background-color: goldenrod; padding: 10px; padding-left: 90px;}
+        #t1{background-color: black; color: aliceblue; width: 1200px; height: 250px; margin-right: 10px; margin: 0px; text-align: center;}
+        #t1 a{color: aliceblue; text-decoration: none; font-size: x-large; padding: 10px;}
+
+
+        #g12{background-color: goldenrod; padding: 10px; padding-left: 90px;}
+        #q1{background-color: black; color: aliceblue; width: 250px; height: 247px; margin-right: 10px; margin: 2px;}
+        #q1 a{color: aliceblue; text-decoration: none; font-size: x-large;padding: 10px;}
+       
+         #q1{
+            float: inline-start;
+            
+         }
+         .fig{
+            color: white;
+         }
+         .nn{
+            display: flex;
+            padding-top: 50px;
+            margin-right: 20px;
+        
+         }
+        body{
+         background-color: rgb(98, 95, 95);
+        }
+
+        .images{
+         border-top-left-radius: 40px;
+         border-bottom-right-radius: 40px;
+         border:  4px solid gold;
+         box-shadow:0 0 30px 4px white ;   
+         width: 300px;
+          
+     }
+     .images:hover{
+      box-shadow:0 0 30px 5px pink ;
+  }
+
+  #soni2{
+   background-color: black;
+   height: 20px;
+   color: white;
+   width: 1200px;
+
+}
+
+footer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 100px;
+   padding: 50px 30px;
+   flex-direction: column;
+   background-color:black;
+}
+.footer-container{
+   max-width: 1200px;
+   width: 100%;
+   display: grid;
+   grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
+   grid-gap:50px;
+}
+.footer-box strong{
+   columns: white;
+   font-size: 1.6rem;
+   font-weight: 700;
+   letter-spacing: 1px;
+   margin-bottom: 15px;
+}
+.footer-box p{
+   color: white;
+   font-size: 0.9rem;
+   letter-spacing: 1px;
+   margin-bottom: 15px;
+}
+.footer-social{
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   flex-wrap: wrap;
+   background-color: goldenrod;
+   width: 127px;
+   font-size: medium;
+}
+.footer-social a{
+   width: 40px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   border-radius: 5px;
+   border: 1px solid rgba(0,0,0,0.1);
+   text-decoration: none;
+}
+.footer-social a:hover{
+   background-color: goldenrod;
+   color: white;
+   transition: all ease 0.3s;
+}
+.footer-box ul{
+   margin-bottom:15px ;
+}
+.footer-box ul li a{
+   color: white;
+   margin: 5px 0px;
+   font-size: 0.9rem;
+   letter-spacing: 1px;
+   display: flex;
+   justify-content: flex-start;
+   transition: all ease 0.3s;
+   background-color: black;
+}
+.footer-box ul li a:hover{
+   color: goldenrod;
+}
+.footer-box{
+   display: flex;
+   flex-direction: column;
+}
+.footer-box span{
+   color: white;
+   margin: 6px 0px;
+   font-size: 0.9rem;
+}
+.footer-box span i{
+   color: #3647df;
+   margin-right: 6px;
+}
+.copyright{
+   padding: 15px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 0.8rem;
+   color: white;
+   font-weight: 400;
+   letter-spacing: 1px;
+   background-color:goldenrod;
+   width: 100%;
+}
+#MM:hover{
+   background-color: grey;
+   color: black;
+   font-size: 13px;
+}
+     
